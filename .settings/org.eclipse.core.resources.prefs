@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//shell/Config.py=utf-8
+encoding//shell/LogginMonitor.py=utf-8
+encoding//shell/event/AbstractEvent.py=utf-8
+encoding//shell/event/KillProcessByComExpiredEvent.py=utf-8
+encoding//shell/event/KillProcessEvent.py=utf-8
+encoding//shell/event/MailProcessEvent.py=utf-8
+encoding//shell/event/SystemEvent.py=utf-8
+encoding//shell/monitor.py=utf-8
+encoding//shell/processors/AbstractProcessor.py=utf-8
+encoding//shell/processors/ComObjectProcessor.py=utf-8
+encoding//shell/processors/SystemJobProcessor.py=utf-8
+encoding//shell/processors/TimeoutError.py=utf-8
+encoding//shell/utils/Observer.py=utf-8
